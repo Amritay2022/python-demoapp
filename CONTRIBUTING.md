@@ -2,6 +2,8 @@
 
 Hello! Thanks for taking an interest in this project and code :)
 
+Abhimanyu
+
 Contributions to this project are welcome of course, otherwise it wouldn't reside on GitHub 😃 however there's a few things to be aware of:
 
 - This is a personal project, it is not maintained by a team or group.
